@@ -36,3 +36,7 @@ The decision boundary in our neural network example serves as a visual tool to u
   Remember, these visualizations are more about understanding the model's structure and learning process rather than explaining its decision-making process in detail, which is more straightforward with models like decision trees.
 
   <img width="1498" height="926" alt="image" src="https://github.com/user-attachments/assets/478839e9-cb52-467a-9b82-f8bc7f2fe0c2" />
+
+
+https://numpy.org/doc/stable/reference/index.html#reference  
+https://matplotlib.org/stable/api/index.html
